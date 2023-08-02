@@ -1,0 +1,41 @@
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+
+  input{
+    width: 38%;
+    height: 29px;
+    border-radius: 18px;
+  }
+
+  .button{
+    background: orange;
+    border-radius: 17px;
+    border-color: white;
+    border: 1px solid white;
+    font-size: 12px;
+    width: 203px;
+    height: 31px;
+    margin-top: 35px;
+  }
+
+  .title_center {
+    
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center; /* align vertical */
+  }
+
+  .tittle{
+    font-size: 22px;
+    position: relative;
+    left: 178%;
+  }
+
+  

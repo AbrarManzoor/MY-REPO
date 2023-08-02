@@ -1,0 +1,49 @@
+
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+.mat-tab-list{
+    background-color: aliceblue !important;
+    flex-grow: 0 !important;
+    width: 100% !important;
+    border-radius: 20px !important;
+  }
+
+  .mat-card-header{
+    background-color: orange !important;
+
+    h2{
+        text-align: center;
+    }
+  }
+
+  .mat-card{
+    border: 1px solid;
+    border-radius: 36px !important;
+  }
+
+  .mat-tab-group{
+    width:70% !important;
+  }
+
+
+  .mat-card-content{
+    text-align: center;
+    color:gray;
+  }
+  
+  .mat-expansion-indicator{
+        width: 110% !important;
+  }
+
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+
+  #menu ul, #menu li {
+    margin: 0; padding: 0;
+}
+
+.mat-tooltip {
+    
+    color: yellow;
+}
